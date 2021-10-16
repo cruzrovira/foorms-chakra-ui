@@ -13,7 +13,7 @@ proyecto para aprender a utilizar https://chakra-ui.com/
 ![pantalla modo claro movil](./doc/sm-claro.png)
 ![pantalla modo claro movil](./doc/sm-claro2.png)
 
-## emeplo de pantalla modo oscuro
+## ejemplo de pantalla modo oscuro
 
 ### pantalla de computadora
 
