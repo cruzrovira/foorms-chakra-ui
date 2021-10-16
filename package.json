@@ -1,0 +1,31 @@
+{
+  "name": "foorms-chakra-ui",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@chakra-ui/react": "^1.6.10",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "D": "^1.0.0",
+    "framer-motion": "^4.1.17",
+    "prettier": "^2.4.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-react": "^7.26.1",
+    "vite": "^2.6.4"
+  }
+}
